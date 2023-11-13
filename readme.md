@@ -19,6 +19,13 @@
 3) Add to server.cfg
 ```
 
+# Animation
+![canfoodanim](https://github.com/FRACTAL-GAME-STUDIOS/fractal_canfood/assets/48241519/0d0a8a4d-f708-4da2-9611-6c6e2b91408e)
+```
+Dict: oxy3ncanfood@animation
+Anim: canfood_clip
+````
+
 If you put the props in another folder, you must edit the fxmanifest:
 
 `data_file 'DLC_ITYP_REQUEST' 'stream/e_food_can.ytyp'`
