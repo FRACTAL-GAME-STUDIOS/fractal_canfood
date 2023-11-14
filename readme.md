@@ -24,6 +24,8 @@
 ```
 Dict: oxy3ncanfood@animation
 Anim: canfood_clip
+Bone Index: SKEL_L_Hand
+Bone Hash: 18905
 ````
 
 If you put the props in another folder, you must edit the fxmanifest:
