@@ -22,7 +22,7 @@
 # Animation
 ![canfoodanim](https://github.com/FRACTAL-GAME-STUDIOS/fractal_canfood/assets/48241519/0d0a8a4d-f708-4da2-9611-6c6e2b91408e)
 ```
-Dict: oxy3ncanfood@animation
+Dict: fractalcanfood@animation
 Anim: canfood_clip
 Bone Index: SKEL_R_Hand
 Bone Hash: 57005
